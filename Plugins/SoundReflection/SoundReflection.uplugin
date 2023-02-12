@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "SoundReflection",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "jetset.3566",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SoundReflection",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"SupportURL": "",
+
+	"Plugins": [
+		{
+			"Name": "AudioSynesthesia",
+			"Enabled": true
+		}
+	]
+}
