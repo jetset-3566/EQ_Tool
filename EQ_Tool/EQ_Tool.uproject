@@ -1,0 +1,30 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.1",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "EQ_Tool",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "ModelingToolsEditorMode",
+      "Enabled": true,
+      "TargetAllowList": [
+        "Editor"
+      ]
+    },
+    {
+      "Name": "AudioSynesthesia",
+      "Enabled": true
+    },
+    {
+      "Name": "SoundReflection",
+      "Enabled": true
+    }
+  ]
+}
